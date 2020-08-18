@@ -31,7 +31,7 @@
 
 ## :rocket: Sobre o desafio
 
-Nesse desafio, foi criada a aplicação GoMarketplace utilizando React Native junto com o TypeScript, utilizando rotas, Async Storage e a Context API.
+Nesse desafio, foi criada uma aplicação para aprimorar os conceitos em NodeJS incluindo o uso de banco de dados com o TypeORM, e relacionamentos ManyToMany!
 
 Para visualizar a proposta, clique [aqui](https://github.com/rocketseat-education/bootcamp-gostack-desafios/tree/master/desafio-database-relations)
 
@@ -39,8 +39,9 @@ Para visualizar a proposta, clique [aqui](https://github.com/rocketseat-educatio
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [TypeScript](https://www.typescriptlang.org/docs/home) 
+- [TypeScript](https://www.typescriptlang.org/docs/home)
 - [Jest](https://jestjs.io/docs/en/getting-started)
+- [NodeJS](https://nodejs.org/en/docs/)
 
 
 ## 🤔 Como contribuir
